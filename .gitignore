@@ -1,0 +1,5 @@
+tests/case/dir
+tests/duplicate/duplicate.hpp
+tests/hardlink/hardlink.hpp
+tests/symlink/symlink.hpp
+
